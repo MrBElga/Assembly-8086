@@ -1,0 +1,2 @@
+LAHF
+ADD AH,2A

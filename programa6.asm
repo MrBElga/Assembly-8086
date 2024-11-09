@@ -1,0 +1,8 @@
+MOV AH,F0
+MOV BH,0
+MOV CX,8
+@ SHR AH,1
+JNC - 
+INC BH
+- LOOP @
+INT 3
