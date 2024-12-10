@@ -30,9 +30,15 @@ Para rodar os exemplos deste repositório, você precisará de:
 2. Escolha o arquivo Assembly (.asm) que deseja executar.
 3. Compile o arquivo usando um montador:
 4. Execute o programa compilado no emulador.
+   
+---
+
 ## 🎯 **Objetivos do Projeto**
   - Compreender a arquitetura e funcionamento de processadores 8086.
   - Estudar a interação direta com hardware via Assembly.
   - Desenvolver soluções otimizadas e de baixo nível.
+
+---
+    
 ## 🤝 **Colaboradores**
   - MrBElga (GitHub)
